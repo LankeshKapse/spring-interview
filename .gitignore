@@ -59,3 +59,6 @@ build/
 
 #H2 ddatabase
 /db
+/.mvn/
+/mvnw
+/mvnw.cmd
